@@ -28,7 +28,7 @@ This project is a simple image encryption and decryption tool developed as part 
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/image-encryption-tool.git
+    git clone https://github.com/Patel-Aum-28/EncrypToImage.git
     cd EncrypToImage
     ```
 
